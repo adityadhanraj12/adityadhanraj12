@@ -1,16 +1,28 @@
-## Hi there 👋
+Aspiring Software Engineer | Java Enthusiast | AI & IoT Explorer
 
-<!--
-**adityadhanraj12/adityadhanraj12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. CSE @ Chandigarh University (2022–2026)
+📍 From Patna, Bihar | Based in Mohali, Punjab
+📫 adityadhanraj404@gmail.com | LinkedIn
 
-Here are some ideas to get you started:
+🛠️ Tech Stack:
+Java | Data Structures & Algorithms | Git & GitHub | VS Code | Linux | Python (ML/NLP) | IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interests:
+AI-Powered Applications | Full-Stack Development | IoT Systems | Smart Automation
+
+📌 Projects:
+
+Fake News Detection – ML/NLP system to verify news authenticity
+
+Smart Car Parking – IoT-based real-time parking availability solution
+
+Business Chatbots – Research on AI chatbot implementation and impact
+
+🏆 Achievements:
+
+200+ DSA Problems Solved
+
+LeetCode Biweekly Global Rank: 2185 / 21961
+
+📜 Certifications:
+Java DSA (Coursera) | OOP with Java | Programming Foundations
