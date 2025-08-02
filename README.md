@@ -5,7 +5,7 @@ Aspiring Software Engineer | Java Enthusiast | AI & IoT Explorer
 📫 adityadhanraj404@gmail.com | LinkedIn
 
 🛠️ Tech Stack:
-Java | Data Structures & Algorithms | Git & GitHub | VS Code | Linux | Python (ML/NLP) | IoT
+Java | Data Structures & Algorithms | Git & GitHub | VS Code | Linux | HTML | CSS | IoT
 
 💡 Interests:
 AI-Powered Applications | Full-Stack Development | IoT Systems | Smart Automation
@@ -21,8 +21,5 @@ Business Chatbots – Research on AI chatbot implementation and impact
 🏆 Achievements:
 
 200+ DSA Problems Solved
-
-LeetCode Biweekly Global Rank: 2185 / 21961
-
 📜 Certifications:
 Java DSA (Coursera) | OOP with Java | Programming Foundations
