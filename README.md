@@ -2,7 +2,6 @@ Aspiring Software Engineer | Java Enthusiast | AI & IoT Explorer
 
 🎓 B.E. CSE @ Chandigarh University (2022–2026)
 📍 From Patna, Bihar | Based in Mohali, Punjab
-📫 adityadhanraj404@gmail.com | LinkedIn
 
 🛠️ Tech Stack:
 Java | Data Structures & Algorithms | Git & GitHub | VS Code | Linux | HTML | CSS | IoT
