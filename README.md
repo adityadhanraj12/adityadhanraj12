@@ -1,24 +1,27 @@
-Aspiring Software Engineer | Java Enthusiast | AI & IoT Explorer
+Software Engineer in the making | Java Developer | DSA & Problem-Solving Enthusiast
 
-🎓 B.E. CSE @ Chandigarh University (2022–2026)
-📍 From Patna, Bihar | Based in Mohali, Punjab
+🎓 B.E. CSE | Chandigarh University (2022–2026)
+📍 Patna, Bihar | Based in Mohali, Punjab
 
-🛠️ Tech Stack:
-Java | Data Structures & Algorithms | Git & GitHub | VS Code | Linux | HTML | CSS | IoT
+💻 Tech Stack:
+Java | Data Structures & Algorithms | OOPs | SQL | HTML | CSS | JavaScript | Git & GitHub | REST APIs | Swing | File Handling
 
-💡 Interests:
-AI-Powered Applications | Full-Stack Development | IoT Systems | Smart Automation
+💡 Areas of Interest:
+Real-world software development | Desktop & Web Applications | API-based systems | Scalable system design
 
-📌 Projects:
+📌 Key Projects:
 
-Fake News Detection – ML/NLP system to verify news authenticity
+Weather App (Java + API) – Real-time weather application using OpenWeatherMap API with an interactive GUI.
 
-Smart Car Parking – IoT-based real-time parking availability solution
-
-Business Chatbots – Research on AI chatbot implementation and impact
+MiniMarket – Console-Based Java Application – OOP-based marketplace with login, product management & persistent storage.
 
 🏆 Achievements:
 
-200+ DSA Problems Solved
+Solved 350+ DSA problems across platforms
+
+Published research paper on AI-powered Business Chatbots
+
+Hackathon participant with hands-on teamwork and problem-solving experience
+
 📜 Certifications:
-Java DSA (Coursera) | OOP with Java | Programming Foundations
+DSA (Microsoft – Coursera) | OOP in Java (UPenn – Coursera) | HTML-CSS-JavaScript | Databases (Meta)
