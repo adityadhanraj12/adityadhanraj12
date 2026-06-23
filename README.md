@@ -22,7 +22,6 @@ Developed a centralized platform for managing student records, attendance, and a
 ## 🏆 Achievements
 
 * Solved 500+ DSA and DBMS problems on LeetCode.
-* Published a research paper on AI-powered Business Chatbots.
 * Participated in two hackathons, demonstrating teamwork and problem-solving skills.
 
 ## 📜 Certifications
