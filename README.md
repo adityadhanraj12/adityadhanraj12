@@ -1,27 +1,32 @@
-Software Engineer in the making | Java Developer | DSA & Problem-Solving Enthusiast
+# Software Engineer in the Making | Full-Stack Developer | DSA Enthusiast
 
-🎓 B.E. CSE | Chandigarh University (2022–2026)
+🎓 B.E. Computer Science Engineering | Chandigarh University (2022–2026)
 📍 Patna, Bihar | Based in Mohali, Punjab
 
-💻 Tech Stack:
-Java | Data Structures & Algorithms | OOPs | SQL | HTML | CSS | JavaScript | Git & GitHub | REST APIs | Swing | File Handling
+## 💻 Tech Stack
 
-💡 Areas of Interest:
-Real-world software development | Desktop & Web Applications | API-based systems | Scalable system design
+Java | PHP | Laravel | MySQL | JavaScript | HTML | CSS | SQL | Git & GitHub | MVC Architecture
 
-📌 Key Projects:
+## 💡 Areas of Interest
 
-Weather App (Java + API) – Real-time weather application using OpenWeatherMap API with an interactive GUI.
+Full-Stack Development | Backend Engineering | Scalable Web Applications | Software Design | Problem Solving
 
-MiniMarket – Console-Based Java Application – OOP-based marketplace with login, product management & persistent storage.
+## 📌 Key Projects
 
-🏆 Achievements:
+🛍️ **ClothesHub – Fashion E-Commerce Platform**
+Built a full-stack e-commerce application using Laravel and MySQL featuring authentication, shopping cart, checkout workflows, order management, and an admin dashboard.
 
-Solved 350+ DSA problems across platforms
+🎓 **Student Management System**
+Developed a centralized platform for managing student records, attendance, and academic information with role-based access and CRUD functionalities.
 
-Published research paper on AI-powered Business Chatbots
+## 🏆 Achievements
 
-Hackathon participant with hands-on teamwork and problem-solving experience
+* Solved 500+ DSA and DBMS problems on LeetCode.
+* Published a research paper on AI-powered Business Chatbots.
+* Participated in two hackathons, demonstrating teamwork and problem-solving skills.
 
-📜 Certifications:
-DSA (Microsoft – Coursera) | OOP in Java (UPenn – Coursera) | HTML-CSS-JavaScript | Databases (Meta)
+## 📜 Certifications
+
+DSA (Microsoft – Coursera) | OOP in Java (UPenn – Coursera) | HTML, CSS & JavaScript | Databases (Meta)
+
+🚀 Passionate about building efficient software solutions and continuously improving problem-solving skills.
