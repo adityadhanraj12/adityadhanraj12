@@ -23,12 +23,12 @@ Full-Stack Development | Backend Engineering | Scalable Web Applications | Datab
 
 ## 📌 Key Projects
 
-🛍️ **[ClothesHub](https://github.com/adityadhanraj12/Clotheshub) – Fashion E-Commerce Platform**
+🛍️ **[ClothesHub](https://github.com/adityadhanraj12/Clotheshub) – Fashion E-Commerce Platform** ([Live Demo](https://clotheshub-cl0e.onrender.com/))
 * Developed a full-stack e-commerce application using Laravel 12 and MySQL.
 * Implemented user authentication, cart persistence, secure checkout workflow, and cascading profile deletions.
 * Created a state-based Indian pincode validator matching input states to correct pincode prefixes.
 
-🎮 **[CodeArena](https://github.com/adityadhanraj12/CodeArena) – CS Quiz Platform**
+🎮 **[CodeArena](https://github.com/adityadhanraj12/CodeArena) – CS Quiz Platform** ([Live Demo](https://codearena-oo1b.onrender.com/))
 * Built an interactive quiz platform featuring sequential session-based MCQ testing across 16 categories.
 * Created dynamic scoreboard scorecards and automatic course completion certificates.
 * Integrated Spatie Browsershot and headless Puppeteer to generate high-quality PDF downloads.
@@ -44,12 +44,12 @@ Full-Stack Development | Backend Engineering | Scalable Web Applications | Datab
 
 ## 📜 Certifications & Credentials
 
-* **Introduction to Databases** (Meta | Coursera) – [Verify Credential](https://www.coursera.org/account/accomplishments/verify/2SPHPG5MJX4T)
-* **Introduction to HTML, CSS, & JavaScript** (IBM | Coursera) – [Verify Credential](https://www.coursera.org/account/accomplishments/verify/8XX5CKQ3A7LK)
-* **Introduction to Java & OOP** (UPenn | Coursera) – [Verify Credential](https://www.coursera.org/account/accomplishments/verify/3PU7QU70ONA3)
-* **SQL Foundations** (Microsoft | Coursera) – [Verify Credential](https://www.coursera.org/account/accomplishments/verify/O1R0B2Y91ZHQ)
-* **Alpha (DSA with Java)** (Apna College) – [Verify Credential](https://drive.google.com/file/d/1diFWmuLePsYlIoke5xbYApytT5BxfhVD/view?usp=sharing)
-* **Computational Programming with Java Standards** (Chandigarh University) – [Verify Credential](https://drive.google.com/file/d/1NgdAMtHpkesJ3fSiWyEhIy1-FvyS7z05/view?usp=sharing)
+* **Introduction to Databases** (Meta | Coursera) – [View Certificate](https://www.coursera.org/account/accomplishments/verify/2SPHPG5MJX4T)
+* **Introduction to HTML, CSS, & JavaScript** (IBM | Coursera) – [View Certificate](https://www.coursera.org/account/accomplishments/verify/8XX5CKQ3A7LK)
+* **Introduction to Java & OOP** (UPenn | Coursera) – [View Certificate](https://www.coursera.org/account/accomplishments/verify/3PU7QU70ONA3)
+* **SQL Foundations** (Microsoft | Coursera) – [View Certificate](https://www.coursera.org/account/accomplishments/verify/O1R0B2Y91ZHQ)
+* **Alpha (DSA with Java)** (Apna College) – [View Certificate](https://drive.google.com/file/d/1diFWmuLePsYlIoke5xbYApytT5BxfhVD/view?usp=sharing)
+* **Computational Programming with Java Standards** (Chandigarh University) – [View Certificate](https://drive.google.com/file/d/1NgdAMtHpkesJ3fSiWyEhIy1-FvyS7z05/view?usp=sharing)
 
 ---
 
