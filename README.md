@@ -23,12 +23,12 @@ Full-Stack Development | Backend Engineering | Scalable Web Applications | Datab
 
 ## 📌 Key Projects
 
-🛍️ **[ClothesHub](https://github.com/adityadhanraj12/Clotheshub) – Fashion E-Commerce Platform** ([Live Demo](https://clotheshub-cl0e.onrender.com/))
+🛍️ **[ClothesHub](https://github.com/adityadhanraj12/Clotheshub) – Fashion E-Commerce Platform** ([Visit Site 🌐](https://clotheshub-cl0e.onrender.com/))
 * Developed a full-stack e-commerce application using Laravel 12 and MySQL.
 * Implemented user authentication, cart persistence, secure checkout workflow, and cascading profile deletions.
 * Created a state-based Indian pincode validator matching input states to correct pincode prefixes.
 
-🎮 **[CodeArena](https://github.com/adityadhanraj12/CodeArena) – CS Quiz Platform** ([Live Demo](https://codearena-oo1b.onrender.com/))
+🎮 **[CodeArena](https://github.com/adityadhanraj12/CodeArena) – CS Quiz Platform** ([Visit Site 🌐](https://codearena-oo1b.onrender.com/))
 * Built an interactive quiz platform featuring sequential session-based MCQ testing across 16 categories.
 * Created dynamic scoreboard scorecards and automatic course completion certificates.
 * Integrated Spatie Browsershot and headless Puppeteer to generate high-quality PDF downloads.
