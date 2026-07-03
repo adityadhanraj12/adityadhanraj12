@@ -1,31 +1,56 @@
-# Software Engineer in the Making | Full-Stack Developer | DSA Enthusiast
+## Software Engineer in the Making | Backend Developer | DSA Enthusiast
 
-🎓 B.E. Computer Science Engineering | Chandigarh University (2022–2026)
-📍 Patna, Bihar | Based in Mohali, Punjab
+🎓 **Education**: B.E. Computer Science Engineering | Chandigarh University (2022–2026)
+📍 **Location**: Patna, Bihar | Based in Mohali, Punjab
+🚀 **Portfolio Website**: [adityadhanraj12.github.io](https://adityadhanraj12.github.io/)
+
+---
 
 ## 💻 Tech Stack
 
-Java | PHP | Laravel | MySQL | JavaScript | HTML | CSS | SQL | Git & GitHub | MVC Architecture
+- **Languages**: Java | PHP | JavaScript | SQL | HTML5 | CSS3
+- **Frameworks & Databases**: Laravel 12 | MySQL
+- **Tools & Platforms**: Git & GitHub | VS Code | Docker | Eclipse
+- **Core Concepts**: MVC Architecture | Data Structures & Algorithms (DSA) | DBMS | REST APIs
+
+---
 
 ## 💡 Areas of Interest
 
-Full-Stack Development | Backend Engineering | Scalable Web Applications | Software Design | Problem Solving
+Full-Stack Development | Backend Engineering | Scalable Web Applications | Database Design | Problem Solving
+
+---
 
 ## 📌 Key Projects
 
-🛍️ **ClothesHub – Fashion E-Commerce Platform**
-Built a full-stack e-commerce application using Laravel and MySQL featuring authentication, shopping cart, checkout workflows, order management, and an admin dashboard.
+🛍️ **[ClothesHub](https://github.com/adityadhanraj12/Clotheshub) – Fashion E-Commerce Platform**
+* Developed a full-stack e-commerce application using Laravel 12 and MySQL.
+* Implemented user authentication, cart persistence, secure checkout workflow, and cascading profile deletions.
+* Created a state-based Indian pincode validator matching input states to correct pincode prefixes.
 
-🎓 **Student Management System**
-Developed a centralized platform for managing student records, attendance, and academic information with role-based access and CRUD functionalities.
+🎮 **[CodeArena](https://github.com/adityadhanraj12/CodeArena) – CS Quiz Platform**
+* Built an interactive quiz platform featuring sequential session-based MCQ testing across 16 categories.
+* Created dynamic scoreboard scorecards and automatic course completion certificates.
+* Integrated Spatie Browsershot and headless Puppeteer to generate high-quality PDF downloads.
+
+---
 
 ## 🏆 Achievements
 
 * Solved 500+ DSA and DBMS problems on LeetCode.
-* Participated in two hackathons, demonstrating teamwork and problem-solving skills.
+* Participated in two hackathons, collaborating in teams to build active software prototypes under deadlines.
 
-## 📜 Certifications
+---
 
-DSA (Microsoft – Coursera) | OOP in Java (UPenn – Coursera) | HTML, CSS & JavaScript | Databases (Meta)
+## 📜 Certifications & Credentials
 
-🚀 Passionate about building efficient software solutions and continuously improving problem-solving skills.
+* **Introduction to Databases** (Meta | Coursera) – [Verify Credential](https://www.coursera.org/account/accomplishments/verify/2SPHPG5MJX4T)
+* **Introduction to HTML, CSS, & JavaScript** (IBM | Coursera) – [Verify Credential](https://www.coursera.org/account/accomplishments/verify/8XX5CKQ3A7LK)
+* **Introduction to Java & OOP** (UPenn | Coursera) – [Verify Credential](https://www.coursera.org/account/accomplishments/verify/3PU7QU70ONA3)
+* **SQL Foundations** (Microsoft | Coursera) – [Verify Credential](https://www.coursera.org/account/accomplishments/verify/O1R0B2Y91ZHQ)
+* **Alpha (DSA with Java)** (Apna College) – [Verify Credential](https://drive.google.com/file/d/1diFWmuLePsYlIoke5xbYApytT5BxfhVD/view?usp=sharing)
+* **Computational Programming with Java Standards** (Chandigarh University) – [Verify Credential](https://drive.google.com/file/d/1NgdAMtHpkesJ3fSiWyEhIy1-FvyS7z05/view?usp=sharing)
+
+---
+
+🚀 Passionate about building efficient software solutions and continuously improving my problem-solving skills.
