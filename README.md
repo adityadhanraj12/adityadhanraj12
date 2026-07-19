@@ -1,7 +1,7 @@
 ## Software Engineer in the Making | Backend Developer | DSA Enthusiast
 
 🎓 **Education**: B.E. Computer Science Engineering | Chandigarh University (2022–2026)
-📍 **Location**: Patna, Bihar | Based in Mohali, Punjab
+📍 **Location**: Hyderabad, Telangana | Hometown: Patna, Bihar
 🚀 **Portfolio Website**: [adityadhanraj12.github.io](https://adityadhanraj12.github.io/)
 
 ---
@@ -9,7 +9,8 @@
 ## 💻 Tech Stack
 
 - **Languages**: Java | PHP | JavaScript | SQL | HTML5 | CSS3
-- **Frameworks & Databases**: Laravel 12 | MySQL
+- **Frameworks & Libraries**: Laravel 12 | Bootstrap 5
+- **Databases**: MySQL
 - **Tools & Platforms**: Git & GitHub | VS Code | Docker | Eclipse
 - **Core Concepts**: MVC Architecture | Data Structures & Algorithms (DSA) | DBMS | REST APIs
 
@@ -23,12 +24,12 @@ Full-Stack Development | Backend Engineering | Scalable Web Applications | Datab
 
 ## 📌 Key Projects
 
-🛍️ **[ClothesHub](https://github.com/adityadhanraj12/Clotheshub) – Fashion E-Commerce Platform** ([Visit Site 🌐](https://clotheshub-cl0e.onrender.com/))
-* Developed a full-stack e-commerce application using Laravel 12 and MySQL.
+🛍️ **[ClothesHub](https://github.com/adityadhanraj12/Clotheshub) – Fashion E-Commerce Platform** ([Visit Site 🌐](https://clotheshub-85tt.onrender.com/))
+* Developed a full-stack e-commerce application using Laravel 12, Bootstrap 5, and MySQL.
 * Implemented user authentication, cart persistence, secure checkout workflow, and cascading profile deletions.
 * Created a state-based Indian pincode validator matching input states to correct pincode prefixes.
 
-🎮 **[CodeArena](https://github.com/adityadhanraj12/CodeArena) – CS Quiz Platform** ([Visit Site 🌐](https://codearena-oo1b.onrender.com/))
+🎮 **[CodeArena](https://github.com/adityadhanraj12/CodeArena) – CS Quiz Platform** ([Visit Site 🌐](https://codearena-wmng.onrender.com/))
 * Built an interactive quiz platform featuring sequential session-based MCQ testing across 16 categories.
 * Created dynamic scoreboard scorecards and automatic course completion certificates.
 * Integrated Spatie Browsershot and headless Puppeteer to generate high-quality PDF downloads.
@@ -38,7 +39,7 @@ Full-Stack Development | Backend Engineering | Scalable Web Applications | Datab
 ## 🏆 Achievements
 
 * Solved 500+ DSA and DBMS problems on LeetCode.
-* Participated in two hackathons, collaborating in teams to build active software prototypes under deadlines.
+* Participated in four hackathons, collaborating in teams to build active software prototypes under deadlines.
 
 ---
 
