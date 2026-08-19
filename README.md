@@ -4,7 +4,7 @@
   <a href="mailto:adityadhanraj404@gmail.com"><img src="https://img.shields.io/badge/Email-adityadhanraj404%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/aditya-dhanraj555"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Dhanraj-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
   <a href="https://adityadhanraj12.github.io/"><img src="https://img.shields.io/badge/Portfolio-adityadhanraj12.github.io-0052FF?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://leetcode.com/u/adityadhanraj12/"><img src="https://img.shields.io/badge/LeetCode-500+%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/Adi_tya_Dhanraj/"><img src="https://img.shields.io/badge/LeetCode-500+%20Solved-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 ---
@@ -54,7 +54,7 @@ I am an aspiring **Software Engineer** and **Full-Stack Developer** with a passi
 
 ### 🏆 Achievements
 
-- 💡 **LeetCode**: Solved **500+** Data Structures, Algorithms, and DBMS problems.
+- 💡 **LeetCode**: Solved **500+** Data Structures, Algorithms, and DBMS problems on [LeetCode Profile](https://leetcode.com/u/Adi_tya_Dhanraj/).
 - 👥 **Hackathons**: Participated in 4 hackathons, collaborating in teams to design and build software prototypes under tight deadlines.
 
 ---
@@ -67,19 +67,6 @@ I am an aspiring **Software Engineer** and **Full-Stack Developer** with a passi
 * 🔍 **SQL Foundations** – Microsoft (Coursera) | [View Certificate](https://www.coursera.org/account/accomplishments/verify/O1R0B2Y91ZHQ)
 * 🌐 **Introduction to HTML, CSS, & JavaScript** – IBM (Coursera) | [View Certificate](https://www.coursera.org/account/accomplishments/verify/8XX5CKQ3A7LK)
 * 📜 **Computational Programming with Java Standards** – Chandigarh University | [View Certificate](https://drive.google.com/file/d/1NgdAMtHpkesJ3fSiWyEhIy1-FvyS7z05/view?usp=sharing)
-
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityadhanraj12&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Aditya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityadhanraj12&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityadhanraj12&theme=radical&hide_border=true" alt="GitHub Streak" width="98%" />
-</p>
 
 ---
 
